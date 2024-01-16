@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1984833967762992845}
   m_Layer: 0
-  m_Name: EarthPlot
+  m_Name: EARTHPLOT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45,7 +45,7 @@ GameObject:
   - component: {fileID: 1088702307379464577}
   - component: {fileID: 7806082636608442708}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: GRASSBLOCK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
