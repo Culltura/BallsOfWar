@@ -66,7 +66,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2933491366907164782, guid: ac3dfce1fe79f2240be180e1c5d1276b, type: 3}
       propertyPath: m_Name
-      value: DIRTPATCH Variant
+      value: DIRTPATCHRANDOM
       objectReference: {fileID: 0}
     - target: {fileID: 3769664321533142558, guid: ac3dfce1fe79f2240be180e1c5d1276b, type: 3}
       propertyPath: m_Materials.Array.data[0]
